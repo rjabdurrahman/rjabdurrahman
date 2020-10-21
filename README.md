@@ -1,15 +1,12 @@
-### Abdur Rahman
+# Abdur Rahman
 ## (Software Developer)
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Node.js
-- 🌱 I’m currently learning ... Angular
-- 👯 I’m looking to collaborate on ... React
-- 🤔 I’m looking for help with ... Electron
-- 💬 Ask me about ... PDF Automation
-- 📫 How to reach me: ... YouTube Channel
+- 🔭 I’m currently working on ... Node.js, Angular, React, PDF Automation
+- 🌱 I’m currently learning ... GraphQL
+- 👯 I’m looking to collaborate on ... Software Developing Coampanies
+- 🤔 I’m looking for help with ... Digital Marketing
+- 💬 Ask me about ... 
+- 📫 How to reach me: ... YouTube Channel (https://youtube.com/c/hunnycoders)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
