@@ -6,6 +6,4 @@
 - 👯 I’m looking to collaborate on ... Software Developing Coampanies
 - 💬 Experienced in JavaScipt, PHP, Java, Python
 - 📫 How to reach me: ... YouTube Channel (https://youtube.com/c/hunnycoders)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+Email: md.rahman0296@gmail.com
